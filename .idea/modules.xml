@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Database _Operations/Database _Operations.iml" filepath="$PROJECT_DIR$/Database _Operations/Database _Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_function/common_function.iml" filepath="$PROJECT_DIR$/common_function/common_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_database/design_database.iml" filepath="$PROJECT_DIR$/design_database/design_database.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module_3.iml" filepath="$PROJECT_DIR$/.idea/module_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql_view/sql_view.iml" filepath="$PROJECT_DIR$/sql_view/sql_view.iml" />
     </modules>
   </component>
 </project>
